@@ -1,0 +1,39 @@
+{
+  "api": "http://productapi.tikport.net/Api/V1",
+  "authapi": "http://productapi.tikport.net/Api/V1/Login/Login",
+  
+  "getAllEmployees": "http://productapi.tikport.net/Api/V1/Person/GetAll",
+  "getOneEmployee": "http://productapi.tikport.net/Api/V1/Person/Get",
+  "addEmployee": "http://productapi.tikport.net/Api/V1/Person/Insert",
+  "editEmployee": "http://productapi.tikport.net/Api/V1/Person/Edit",
+  "deleteEmployee": "http://productapi.tikport.net/Api/V1/Person/Delete",
+  "recoverEmployee": "http://productapi.tikport.net/Api/V1/Person/RecoverDeleted",
+  "getAllDeletedEmployees": "http://productapi.tikport.net/Api/V1/Person/GetAllTrash",
+  
+  "getAllCalendars": "http://productapi.tikport.net/Api/V1/Calendar/GetAll",
+  "getOneCalendar": "http://productapi.tikport.net/Api/V1/Calendar/Get",
+  "deleteCalendar": "http://productapi.tikport.net/Api/V1/Calendar/Delete",
+  "addCalendar": "http://productapi.tikport.net/Api/V1/Calendar/Insert",
+  "cloneCalendar": "http://productapi.tikport.net/Api/V1/Calendar/Clone",
+  "editCalendar": "http://productapi.tikport.net/Api/V1/Calendar/Edit",
+  "getAllDayType": "http://productapi.tikport.net/Api/V1/CalendarDayType/GetAll",
+  
+  "getAllForms": "http://productapi.tikport.net/Api/V1/Form/GetAll",
+  "getOneForm": "http://productapi.tikport.net/Api/V1/Form/Get",
+  "deleteForm": "http://productapi.tikport.net/Api/V1/Form/Delete",
+  "cloneForm": "http://productapi.tikport.net/Api/V1/Form/Clone",
+  "addForm": "http://productapi.tikport.net/Api/V1/Form/Insert",
+  "editForm": "http://productapi.tikport.net/Api/V1/Form/Edit",
+  
+  "getAllWorkHours": "http://productapi.tikport.net/Api/V1/Person/GetAll",
+  
+  "getAllTimings": "http://productapi.tikport.net/Api/V1/Timming/GetAll",
+  "getOneTiming": "http://productapi.tikport.net/Api/V1/Timming/Get",
+  "addTiming": "http://productapi.tikport.net/Api/V1/Timming/Insert",
+  "editTiming": "http://productapi.tikport.net/Api/V1/Timming/Edit",
+  "deleteTiming": "http://productapi.tikport.net/Api/V1/Timming/Delete",
+  "cloneTiming": "http://productapi.tikport.net/Api/V1/Timming/Clone",
+  
+  "getAllSpiderChart": "http://productapi.tikport.net/Api/V1/SChart/GetPosition",
+  "getAllViewSpiderChart": "http://productapi.tikport.net/Api/V1/"
+}
